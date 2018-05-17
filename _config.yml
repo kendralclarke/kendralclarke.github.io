@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: The Coding Yogi
 header-img: img/home-bg.png
 email: kendralclarke@yahoo.com
 copyright_name: kendralclarke
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My adventure with headstands and program commands.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kendralclarke
